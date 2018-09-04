@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 2.6)
+	add_executable(	deprecated CPP_Sample/CPP_14/deprecated.cpp	)
+	add_executable(	Digit_separators CPP_Sample/CPP_14/Digit_separators.cpp	)
+	add_executable(	functionReturnType CPP_Sample/CPP_14/default_delete/functionReturnType.cpp	)
+	add_executable(	genericLambda CPP_Sample/CPP_14/genericLambda.cpp	)
+	add_executable(	tuple CPP_Sample/CPP_14/tuple.cpp	)
+	add_executable(	userDefinedLiterals CPP_Sample/CPP_14/userDefinedLiterals.cpp	)
